@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drug response on Ladislav Rampasek</title>
+    <link>http://rampasek.github.io/tags/drug-response/</link>
+    <description>Recent content in Drug response on Ladislav Rampasek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Thu, 21 Jan 2021 09:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rampasek.github.io/tags/drug-response/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Latent-variable models for drug response prediction and genetic testing</title>
+      <link>http://rampasek.github.io/publication/phd-thesis/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/publication/phd-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Approaches to Drug Response Prediction: Challenges and Recent Progress</title>
+      <link>http://rampasek.github.io/publication/njp-po-drugresponse/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/publication/njp-po-drugresponse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr.VAE: improving drug response prediction via modeling of drug perturbation effects</title>
+      <link>http://rampasek.github.io/publication/drvae-bioinformatics/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/publication/drvae-bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr.VAE: Drug Response Variational Autoencoder</title>
+      <link>http://rampasek.github.io/publication/drvae-arxiv/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/publication/drvae-arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

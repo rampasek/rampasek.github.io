@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ladislav Rampasek</title>
+    <link>http://rampasek.github.io/home/</link>
+    <description>Recent content in Homes on Ladislav Rampasek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://rampasek.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://rampasek.github.io/home/about/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/about/</guid>
+      <description>I am a postdoctoral fellow investigating questions at the intersection of graph representation learning, graph signal processing, and geometric deep learning in the groups of Guy Wolf (UdeM) and William L. Hamilton (McGill).
+I completed my PhD at the University of Toronto in Anna Goldenberg&amp;rsquo;s group, where I developed latent-variable models for cancer treatment outcome prediction and drug perturbation effect modelling.
+In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), where I developed machine learning models for predicting drug effects on cell phenotype from the drug molecular structure.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://rampasek.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Publications</title>
+      <link>http://rampasek.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Talks</title>
+      <link>http://rampasek.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://rampasek.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://rampasek.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://rampasek.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/teaching/</guid>
+      <description>I was a teaching assistant for the following courses at the University of Toronto:
+ CSC321: Intro to Neural Networks and Machine Learning (1 semester) CSC411/2125: Introduction to Machine Learning (3 semesters) CSC2417: Algorithms for Genome Sequence Analysis (1 semester) CSC373: Algorithm Design, Analysis, and Complexity (3 semesters) CSC263: Algorithms and Data Structures (6 semesters) CSC180: Introduction to Computer Programming (1 semester)  In 2014–2016 I was the head coach for ACM International Collegiate Programming Contest at U of Toronto.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://rampasek.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://rampasek.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

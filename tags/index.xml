@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ladislav Rampasek</title>
+    <link>http://rampasek.github.io/tags/</link>
+    <description>Recent content in Tags on Ladislav Rampasek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rampasek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cancer research</title>
+      <link>http://rampasek.github.io/tags/cancer-research/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/cancer-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CfDNA CNV detection</title>
+      <link>http://rampasek.github.io/tags/cfdna-cnv-detection/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/cfdna-cnv-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>http://rampasek.github.io/tags/classification/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>http://rampasek.github.io/tags/clustering/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional neural nets</title>
+      <link>http://rampasek.github.io/tags/convolutional-neural-nets/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/convolutional-neural-nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>http://rampasek.github.io/tags/deep-learning/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain adaptation</title>
+      <link>http://rampasek.github.io/tags/domain-adaptation/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug combinations</title>
+      <link>http://rampasek.github.io/tags/drug-combinations/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/drug-combinations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug response</title>
+      <link>http://rampasek.github.io/tags/drug-response/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/drug-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient algorithms</title>
+      <link>http://rampasek.github.io/tags/efficient-algorithms/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/efficient-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden Markov models</title>
+      <link>http://rampasek.github.io/tags/hidden-markov-models/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/hidden-markov-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretability</title>
+      <link>http://rampasek.github.io/tags/interpretability/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/interpretability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>http://rampasek.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models</title>
+      <link>http://rampasek.github.io/tags/probabilistic-models/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/probabilistic-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA structural pattern search</title>
+      <link>http://rampasek.github.io/tags/rna-structural-pattern-search/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/rna-structural-pattern-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review paper</title>
+      <link>http://rampasek.github.io/tags/review-paper/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/review-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer learning</title>
+      <link>http://rampasek.github.io/tags/transfer-learning/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational autoencoders</title>
+      <link>http://rampasek.github.io/tags/variational-autoencoders/</link>
+      <pubDate>Thu, 21 Jan 2021 09:30:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/tags/variational-autoencoders/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

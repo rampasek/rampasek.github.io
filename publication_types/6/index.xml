@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Ladislav Rampasek</title>
+    <link>http://rampasek.github.io/publication_types/6/</link>
+    <description>Recent content in 6 on Ladislav Rampasek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Wed, 11 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rampasek.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discovery of RNA motifs using a computational pipeline that allows insertions in paired regions and filtering of candidate sequences</title>
+      <link>http://rampasek.github.io/publication/randi-rnamotifs/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://rampasek.github.io/publication/randi-rnamotifs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

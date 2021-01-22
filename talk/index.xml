@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Ladislav Rampasek</title>
+    <link>http://rampasek.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Ladislav Rampasek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://rampasek.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep generative models for drug response prediction</title>
+      <link>http://rampasek.github.io/talk/nips2017/</link>
+      <pubDate>Mon, 02 Jul 2018 18:30:44 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/talk/nips2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling post-treatment gene expression change with a deep generative model</title>
+      <link>http://rampasek.github.io/talk/ismb2017/</link>
+      <pubDate>Mon, 02 Jul 2018 18:30:37 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/talk/ismb2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fCNV: Probabilistic method for detecting copy number variation in a fetal genome using maternal plasma sequencing</title>
+      <link>http://rampasek.github.io/talk/ismb2014/</link>
+      <pubDate>Mon, 02 Jul 2018 18:30:05 -0400</pubDate>
+      
+      <guid>http://rampasek.github.io/talk/ismb2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
