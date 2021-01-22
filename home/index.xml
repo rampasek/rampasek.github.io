@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://rampasek.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://rampasek.github.io/home/about/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>https://rampasek.github.io/home/about/</guid>
       <description>I am a postdoctoral fellow investigating questions at the intersection of graph representation learning, graph signal processing, and geometric deep learning in the groups of Guy Wolf (UdeM) and William L. Hamilton (McGill).
