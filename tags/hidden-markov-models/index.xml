@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hidden Markov models on Ladislav Rampasek</title>
-    <link>http://rampasek.github.io/tags/hidden-markov-models/</link>
+    <link>https://rampasek.github.io/tags/hidden-markov-models/</link>
     <description>Recent content in Hidden Markov models on Ladislav Rampasek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Wed, 11 Jun 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rampasek.github.io/tags/hidden-markov-models/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rampasek.github.io/tags/hidden-markov-models/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Probabilistic method for detecting copy number variation in a fetal genome using maternal plasma sequencing</title>
-      <link>http://rampasek.github.io/publication/fcnv/</link>
+      <link>https://rampasek.github.io/publication/fcnv/</link>
       <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://rampasek.github.io/publication/fcnv/</guid>
+      <guid>https://rampasek.github.io/publication/fcnv/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8 on Ladislav Rampasek</title>
-    <link>http://rampasek.github.io/publication_types/8/</link>
+    <link>https://rampasek.github.io/publication_types/8/</link>
     <description>Recent content in 8 on Ladislav Rampasek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
     <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://rampasek.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rampasek.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dropout Feature Ranking for Deep Learning Models</title>
-      <link>http://rampasek.github.io/publication/kingsley-vardropout/</link>
+      <link>https://rampasek.github.io/publication/kingsley-vardropout/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://rampasek.github.io/publication/kingsley-vardropout/</guid>
+      <guid>https://rampasek.github.io/publication/kingsley-vardropout/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dr.VAE: Drug Response Variational Autoencoder</title>
-      <link>http://rampasek.github.io/publication/drvae-arxiv/</link>
+      <link>https://rampasek.github.io/publication/drvae-arxiv/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://rampasek.github.io/publication/drvae-arxiv/</guid>
+      <guid>https://rampasek.github.io/publication/drvae-arxiv/</guid>
       <description></description>
     </item>
     
