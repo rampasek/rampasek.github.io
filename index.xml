@@ -12,6 +12,24 @@
     
     <item>
       <title>Hierarchical graph neural nets can capture long-range interactions</title>
+      <link>https://rampasek.github.io/talk/mlsp-hgnet/</link>
+      <pubDate>Wed, 15 Sep 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://rampasek.github.io/talk/mlsp-hgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Graph Nets and Long-Range Interactions</title>
+      <link>https://rampasek.github.io/talk/1wminds-hgnet/</link>
+      <pubDate>Mon, 16 Aug 2021 14:00:00 -0400</pubDate>
+      
+      <guid>https://rampasek.github.io/talk/1wminds-hgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical graph neural nets can capture long-range interactions</title>
       <link>https://rampasek.github.io/publication/hgnet-arxiv/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
@@ -124,24 +142,6 @@
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rampasek.github.io/publication/rnarobo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cell-free DNA fragment-size distribution analysis for non-invasive prenatal CNV prediction</title>
-      <link>https://rampasek.github.io/publication/fsda/</link>
-      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rampasek.github.io/publication/fsda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensorflow: Biology’s gateway to deep learning?</title>
-      <link>https://rampasek.github.io/publication/cell-tensorflow/</link>
-      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rampasek.github.io/publication/cell-tensorflow/</guid>
       <description></description>
     </item>
     

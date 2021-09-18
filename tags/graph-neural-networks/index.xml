@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 10:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://rampasek.github.io/tags/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hierarchical graph neural nets can capture long-range interactions</title>
+      <link>https://rampasek.github.io/talk/mlsp-hgnet/</link>
+      <pubDate>Wed, 15 Sep 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://rampasek.github.io/talk/mlsp-hgnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Graph Nets and Long-Range Interactions</title>
+      <link>https://rampasek.github.io/talk/1wminds-hgnet/</link>
+      <pubDate>Mon, 16 Aug 2021 14:00:00 -0400</pubDate>
+      
+      <guid>https://rampasek.github.io/talk/1wminds-hgnet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical graph neural nets can capture long-range interactions</title>
