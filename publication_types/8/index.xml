@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rampasek.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards a Taxonomy of Graph Learning Datasets</title>
+      <link>https://rampasek.github.io/publication/gtaxo-dcai2021/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rampasek.github.io/publication/gtaxo-dcai2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KuLGaP: A Selective Measure for Assessing Therapy Response in Patient-Derived Xenografts</title>

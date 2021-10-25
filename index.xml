@@ -12,6 +12,24 @@
     
     <item>
       <title>Hierarchical graph neural nets can capture long-range interactions</title>
+      <link>https://rampasek.github.io/publication/hgnet-arxiv/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rampasek.github.io/publication/hgnet-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Taxonomy of Graph Learning Datasets</title>
+      <link>https://rampasek.github.io/publication/gtaxo-dcai2021/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rampasek.github.io/publication/gtaxo-dcai2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical graph neural nets can capture long-range interactions</title>
       <link>https://rampasek.github.io/talk/mlsp-hgnet/</link>
       <pubDate>Wed, 15 Sep 2021 10:00:00 -0400</pubDate>
       
@@ -25,15 +43,6 @@
       <pubDate>Mon, 16 Aug 2021 14:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/talk/1wminds-hgnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical graph neural nets can capture long-range interactions</title>
-      <link>https://rampasek.github.io/publication/hgnet-arxiv/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rampasek.github.io/publication/hgnet-arxiv/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://rampasek.github.io/publication/cell-medulloblastoma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RNA motif search with data-driven element ordering</title>
-      <link>https://rampasek.github.io/publication/rnarobo/</link>
-      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://rampasek.github.io/publication/rnarobo/</guid>
       <description></description>
     </item>
     
