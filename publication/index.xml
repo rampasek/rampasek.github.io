@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Long Range Graph Benchmark</title>
+      <link>https://rampasek.github.io/publication/lrgb-arxiv/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rampasek.github.io/publication/lrgb-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomy of Benchmarks in Graph Representation Learning</title>
+      <link>https://rampasek.github.io/publication/gtaxo-arxiv/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rampasek.github.io/publication/gtaxo-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recipe for a General, Powerful, Scalable Graph Transformer</title>
       <link>https://rampasek.github.io/publication/graphgps-arxiv/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
