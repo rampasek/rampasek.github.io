@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021</copyright>
-    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://rampasek.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://rampasek.github.io/home/about/</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>https://rampasek.github.io/home/about/</guid>
       <description>I am a postdoctoral fellow investigating questions at the intersection of graph representation learning, graph signal processing, and geometric deep learning in the groups of Guy Wolf (UdeM) and William L. Hamilton (McGill).
@@ -26,7 +26,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Publications</title>
       <link>https://rampasek.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/publications/</guid>
       <description></description>
@@ -35,7 +35,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Invited Publications</title>
       <link>https://rampasek.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/publications_selected/</guid>
       <description></description>
@@ -44,7 +44,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Conference Talks</title>
       <link>https://rampasek.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/talks/</guid>
       <description></description>
@@ -53,7 +53,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Recent Posts</title>
       <link>https://rampasek.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/posts/</guid>
       <description></description>
@@ -62,7 +62,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Projects</title>
       <link>https://rampasek.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/projects/</guid>
       <description></description>
@@ -71,7 +71,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Teaching</title>
       <link>https://rampasek.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/teaching/</guid>
       <description>I was a teaching assistant for the following courses at the University of Toronto:
@@ -81,7 +81,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Tags</title>
       <link>https://rampasek.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/tags/</guid>
       <description></description>
@@ -90,7 +90,7 @@ In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), 
     <item>
       <title>Contact</title>
       <link>https://rampasek.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://rampasek.github.io/home/contact/</guid>
       <description></description>
