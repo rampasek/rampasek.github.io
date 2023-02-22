@@ -1,0 +1,39 @@
+"UofT":
+  url: https://web.cs.toronto.edu/
+  color: "#00285d"
+
+"BMC Bioinf.":
+  # url: https://bmcbioinformatics.biomedcentral.com/
+  color: "#04caa8"
+
+"Bioinformatics":
+  # url: https://academic.oup.com/bioinformatics
+  color: "#006fb7"
+
+"Cell":
+  # url: https://www.cell.com/
+  color: "#005789"
+
+"Nature":
+  # url: https://www.nature.com/
+  color: "#0a0b0a"
+
+"Science":
+  # url: https://www.science.org/
+  color: "#0a0b0a"
+
+"IEEE":
+  # url: https://ieeexplore.ieee.org/
+  color: "#15313e"
+
+"arXiv":
+  # url: https://arxiv.org/
+  color: "#b31b1b"
+
+"NeurIPS":
+  # url: https://neurips.cc/
+  color: "#936da4"
+
+"LoG":
+  url: https://logconference.org/
+  color: "#013580"
