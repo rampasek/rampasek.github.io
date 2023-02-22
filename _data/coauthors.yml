@@ -1,34 +1,19 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Goldenberg":
+  - firstname: ["Anna"]
+    url: https://scholar.google.ca/citations?user=cEepZOEAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Wolf":
+  - firstname: ["Guy"]
+    url: https://scholar.google.com/citations?user=g0k3SjcAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Galkin":
+  - firstname: ["Mikhail"]
+    url: https://scholar.google.com/citations?user=yfYRbG4AAAAJ&hl=th
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Beaini":
+  - firstname: ["Dominique"]
+    url: https://scholar.google.com/citations?user=ScCOIx0AAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Dwivedi":
+  - firstname: ["Vijay Prakash", "Vijay", "Vijay P."]
+    url: https://scholar.google.com/citations?user=8MS7iC0AAAAJ&hl=en
