@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
+nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: https://drive.google.com/file/d/1oe5APFS3DnKgUAKZl4qXcvIcPMhlzwMe/view?usp=sharing
 ---

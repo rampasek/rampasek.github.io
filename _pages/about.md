@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: > 
-  Postdoctoral Fellow, <a href='https://mila.quebec/en'>Mila - Quebec AI Institute</a> + Université de Montréal
-# Research Scientist, <a href='https://www.isomorphiclabs.com'>Isomorphic Labs</a>  •  Previously: <a href='https://mila.quebec/en'>Mila+UdeM</a> / <a href='https://web.cs.toronto.edu'>UofT</a>
+subtitle: |
+  Research Scientist, <a href='https://www.isomorphiclabs.com'>Isomorphic Labs</a>  &nbsp;•&nbsp;  Previously: <a href='https://mila.quebec/en'>Mila + UdeM</a> / <a href='https://web.cs.toronto.edu'>UofT</a>
+# Postdoctoral Fellow, <a href='https://mila.quebec/en'>Mila - Quebec AI Institute</a> + Université de Montréal  
 
 profile:
   align: right
@@ -29,11 +29,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a postdoctoral fellow investigating questions at the intersection of graph representation learning, graph signal processing, and geometric deep learning in the groups of [Guy Wolf (UdeM)](http://guywolf.org/) and [William L. Hamilton (McGill)](https://www.cs.mcgill.ca/~wlh/).
+Previously, I was a postdoctoral fellow in the group of [Guy Wolf (UdeM)](http://guywolf.org/), investigating questions at the intersection of graph representation learning, graph signal processing, and geometric deep learning.
 
 I completed my PhD at the University of Toronto in [Anna Goldenberg's group](http://goldenberglab.ca/"Goldenberg Lab"), where I developed latent-variable models for cancer treatment outcome prediction and drug perturbation effect modelling.
 
-In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), where I developed machine learning models for predicting drug effects on cell phenotype from the drug molecular structure. I used SMILES variational autoencoders, convolutional nets, graph neural nets.
+In fall 2018 I interned in Google Accelerated Science team (Mountain View, CA), where I developed machine learning models for predicting drug effects on cell phenotype from the drug molecular structure.
 
 In 2016 I interned in Atomwise (San Francisco, CA), where I worked on 3D convolutional neural nets to predict small molecule binding to protein targets and for scoring of the 3D binding poses.
 
